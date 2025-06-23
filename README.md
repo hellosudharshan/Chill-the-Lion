@@ -1,6 +1,6 @@
 # Chill-the-Lion
 Chill the Lion is an interactive 3D animation website built with Three.js. The project features a stylized lion character that responds to user interaction—press and drag your mouse to create a gentle wind, and watch as the lion reacts and relaxes in real time. This playful animation demonstrates the power of Three.js for creative web experiences.
-# Features
+## Features
  
 - 3D Animated Lion: A charming, low-poly lion rendered in real time.
 - Interactive Wind Effect: Click and drag to generate wind; the lion’s mane and behavior respond dynamically.
