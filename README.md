@@ -9,6 +9,7 @@ Chill the Lion is an interactive 3D animation website built with Three.js. The p
 - Attribution: Created by Sudharshan Vijay.
 
 ## Getting Started
+- Try the live page : https://chillthelion.vercel.app/
 
 ## Clone the repository:
 - Clone this repository
