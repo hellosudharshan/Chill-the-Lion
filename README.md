@@ -16,7 +16,7 @@ Chill the Lion is an interactive 3D animation website built with Three.js. The p
 - Navigate to the project directory: cd chill-the-lion
 - Open index.html in your browser to experience the animation.
 
-## Technologies Used
+## Technologies Used 
 
 - Three.js for 3D rendering
 - JavaScript, HTML, and CSS for structure and styling
